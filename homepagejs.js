@@ -9,7 +9,7 @@ function wait(ms) {
 
 //OnClick LogInButton display bg-modal (LogIn Form PopUP)
 
-document.getElementById('menu-item-25576').addEventListener('click',
+document.getElementById('menu-item-255763').addEventListener('click',
     function () {
         $('.form-container').addClass('animated fadeInRight');
         document.querySelector('.bg-modal').style.display = 'flex';
