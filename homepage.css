@@ -171,7 +171,7 @@ svg {
 
     justify-content: center;
     align-items: center;
-    display: none;
+    display: flex;
 }
 
 .form-container {
