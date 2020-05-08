@@ -20,7 +20,7 @@ svg {
     height: 535px;
     /*background-color: #02203c;*/
     /*background-image: url("top_background.jpeg");*/
-    background: linear-gradient(-45deg, #0f0f0f 50%, #252525);
+    background: linear-gradient(-90deg, #02203c, #001528);
 }
 
 #the_content {
