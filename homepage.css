@@ -169,7 +169,9 @@ svg {
     top: 0;
     z-index: 3;
 
-
+    justify-content: center;
+    align-items: center;
+    display: flex;//Lo at this 
 	
 }
 
