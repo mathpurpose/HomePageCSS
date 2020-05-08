@@ -171,7 +171,9 @@ svg {
 
     justify-content: center;
     align-items: center;
-    display: absolute;//Lo at this 
+    display: none;//Lo at this 
+	top: 20px;
+	
 }
 
 .form-container {
